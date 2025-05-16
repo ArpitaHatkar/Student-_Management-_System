@@ -2,7 +2,7 @@
   "name": "p1_sms_project",
   "version": "1.0.0",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
